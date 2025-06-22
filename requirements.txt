@@ -1,0 +1,7 @@
+# requirements.txt
+face_recognition
+numpy
+opencv-python
+requests
+Pillow
+boto3
